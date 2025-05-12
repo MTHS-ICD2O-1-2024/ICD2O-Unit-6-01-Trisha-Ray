@@ -2,8 +2,8 @@
   "name": "Trisha's App",
   "short_name": "Trisha's App",
   "description": "Github Page for Trisha's App",
-  "scope": "/ICS2O-UNIT-6-01/",
-  "start_url": "/ICS2O-UNIT-6-01/",
+  "scope": "/ICS2O-Unit-6-01/",
+  "start_url": "/ICS2O-Unit-6-01/",
   "permissions": [ 
     "unlimitedStorage",
     "fullscreen"
