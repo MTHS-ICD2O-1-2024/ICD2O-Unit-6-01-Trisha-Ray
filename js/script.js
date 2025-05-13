@@ -10,8 +10,8 @@
  * Check servie worker.
  */
 if (navigator.serviceWorker) {
-  navigator.serviceWorker.register("/ICS2O-Unit-6-01-Trisha-Ray/sw.js", {
-    scope: "/ICS2O-Unit-6-01-Trisha-Ray/",
+  navigator.serviceWorker.register("/ICD2O-Unit-6-01-Trisha-Ray/sw.js", {
+    scope: "/ICD2O-Unit-6-01-Trisha-Ray/",
   })
 }
  //This function multiples numbers
